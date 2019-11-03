@@ -50,11 +50,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Open Advertisements | Advertise Discord Server",
+        "meta_descr": "Advertise your server, social media and more! Open Advertisements allows you to grow your server and communicate and partner with other server owners.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/open%20advertisements-2000x1000.png"
       },
       "components": [
         {
@@ -750,11 +751,11 @@
           "_name": "content8",
           "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#cccccc\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://patreon.com/Looat\" data-app-placeholder=\"Type Text\" target=\"_blank\">View on Patreon</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://discord.gg/advertise\" data-app-placeholder=\"Type Text\" target=\"_blank\">Join to Boost</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rGpsrGckCU",
+          "_anchor": "content8-l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content8-l"
+          "_params": {}
         },
         {
           "alias": false,
